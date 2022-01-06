@@ -1,0 +1,457 @@
+2021-12-10 08:00:27,845 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-12-10 08:00:28,022 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2021-12-10 08:00:28,321 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 297 ms
+2021-12-10 08:00:28,937 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 336 ms
+2021-12-10 08:00:29,167 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 106 ms
+2021-12-10 08:01:12,146 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 147 ms
+2021-12-10 08:01:14,214 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 4 ms
+2021-12-10 08:01:32,170 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 2 ms
+2021-12-10 08:01:33,462 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-1] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allResolvedRequsts :: 26 ms
+2021-12-10 08:01:56,873 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 3 ms
+2021-12-10 08:02:02,763 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 5 ms
+2021-12-10 08:03:09,623 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 3 ms
+2021-12-10 08:03:13,849 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 4 ms
+2021-12-10 08:03:38,221 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-1] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 6 ms
+2021-12-10 08:03:45,738 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 2 ms
+2021-12-10 08:03:46,471 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 3 ms
+2021-12-10 09:20:19,580 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 311 ms
+2021-12-10 09:20:24,708 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 69 ms
+2021-12-10 09:20:51,645 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 10 ms
+2021-12-10 09:21:02,069 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-1] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 4 ms
+2021-12-10 09:21:06,003 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 23 ms
+2021-12-10 09:21:11,974 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 3 ms
+2021-12-10 09:21:13,059 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 7 ms
+2021-12-10 09:21:24,348 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 7 ms
+2021-12-10 09:21:26,228 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 5 ms
+2021-12-10 09:21:27,127 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 39 ms
+2021-12-10 16:56:48,961 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 154 ms
+2021-12-10 17:27:17,175 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 134 ms
+2021-12-10 17:27:21,616 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 130 ms
+2021-12-10 17:27:23,124 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 38 ms
+2021-12-10 17:27:27,698 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 52 ms
+2021-12-10 17:29:57,921 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 43 ms
+2021-12-10 17:30:53,029 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 1 ms
+2021-12-10 17:31:46,034 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 2 ms
+2021-12-10 17:32:26,925 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 4 ms
+2021-12-10 17:32:27,546 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 16 ms
+2021-12-10 17:32:28,404 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 35 ms
+2021-12-10 17:34:37,588 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 12 ms
+2021-12-10 17:38:00,759 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 21 ms
+2021-12-10 17:40:20,174 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 79 ms
+2021-12-10 17:45:00,836 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 19 ms
+2021-12-10 17:45:00,916 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 43 ms
+2021-12-10 17:45:13,657 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 48 ms
+2021-12-10 17:45:14,600 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 2 ms
+2021-12-10 17:45:16,082 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allResolvedRequsts :: 7 ms
+2021-12-10 17:45:17,088 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 1 ms
+2021-12-10 17:45:23,166 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 3 ms
+2021-12-10 17:47:15,766 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 3 ms
+2021-12-10 17:48:10,835 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 2 ms
+2021-12-10 17:50:37,986 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 3 ms
+2021-12-10 17:52:07,962 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 2 ms
+2021-12-10 17:52:24,331 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 3 ms
+2021-12-10 17:52:24,528 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 37 ms
+2021-12-10 20:30:20,468 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 290 ms
+2021-12-10 20:30:28,276 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 22 ms
+2021-12-10 20:30:33,001 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:30:33,729 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 20 ms
+2021-12-10 20:30:37,127 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:30:45,800 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:30:48,405 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:30:48,954 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 2 ms
+2021-12-10 20:30:51,409 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 90 ms
+2021-12-10 20:30:54,983 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:30:57,774 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:30:58,537 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 4 ms
+2021-12-10 20:30:59,518 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 4 ms
+2021-12-10 20:31:08,657 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 3 ms
+2021-12-10 20:31:16,948 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 3 ms
+2021-12-10 20:31:17,873 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 3 ms
+2021-12-10 20:31:23,273 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 2 ms
+2021-12-10 20:31:23,845 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 4 ms
+2021-12-10 20:31:24,795 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 29 ms
+2021-12-10 20:31:33,769 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 2 ms
+2021-12-10 20:31:34,296 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 3 ms
+2021-12-10 20:31:34,854 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 7 ms
+2021-12-10 20:31:43,920 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 22 ms
+2021-12-10 20:31:44,492 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 299 ms
+2021-12-10 20:31:50,576 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allResolvedRequsts :: 3 ms
+2021-12-10 20:31:55,821 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 3 ms
+2021-12-10 20:31:59,186 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 20 ms
+2021-12-10 20:32:02,122 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 3 ms
+2021-12-10 20:32:07,187 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 5 ms
+2021-12-10 20:32:07,741 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.allEmployees :: 4 ms
+2021-12-10 20:32:09,283 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 3 ms
+2021-12-10 20:32:10,686 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-4] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allResolvedRequsts :: 3 ms
+2021-12-10 20:50:20,219 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-6] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 309 ms
+2021-12-10 20:50:25,862 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 16 ms
+2021-12-10 20:50:28,410 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-9] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 18 ms
+2021-12-10 20:50:29,696 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.getUserById :: 76 ms
+2021-12-10 20:50:37,088 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 3 ms
+2021-12-10 20:50:38,839 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 4 ms
+2021-12-10 21:20:01,555 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 327 ms
+2021-12-10 21:20:15,797 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-7] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 5 ms
+2021-12-10 21:20:16,130 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-8] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.allPendingRequsts :: 94 ms
+2021-12-10 21:22:46,902 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-10] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 293 ms
+2021-12-10 21:22:50,720 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-2] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userPendingRequestes :: 27 ms
+2021-12-10 21:22:51,963 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-3] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of RequestServicEmpliment.userResolveRequest :: 17 ms
+2021-12-10 22:35:51,462 INFO com.revture.project2.reimbursement.aop.LoggingAspect [http-nio-8080-exec-5] BOOKCRUD - Spring Boot Logging AOP EXAMPLE - Execution time of UsersServicEmpliment.logIn :: 139 ms
+2021-12-13 13:00:46,499 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 13:00:46,511 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ReimbursementApplication using Java 16.0.2 on LAPTOP-416D82O1 with PID 2372 (C:\Users\Carlos Leon\java-project-two-master\target\classes started by Carlos Leon in C:\Users\Carlos Leon\java-project-two-master)
+2021-12-13 13:00:46,512 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 13:00:46,587 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 13:00:46,588 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 13:00:47,706 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 13:00:47,779 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 62 ms. Found 2 JPA repository interfaces.
+2021-12-13 13:00:48,833 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 13:00:48,847 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:00:48,848 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 13:00:48,848 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 13:00:48,956 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 13:00:48,956 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2367 ms
+2021-12-13 13:00:49,311 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 13:00:49,385 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 13:00:49,654 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 13:00:49,783 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 13:00:50,992 ERROR com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Exception during pool initialization.
+org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:623)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:163)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:215)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:225)
+	at org.postgresql.Driver.makeConnection(Driver.java:466)
+	at org.postgresql.Driver.connect(Driver.java:265)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:178)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:175)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.revture.project2.reimbursement.ReimbursementApplication.main(ReimbursementApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2021-12-13 13:00:50,993 WARN org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator [restartedMain] HHH000342: Could not obtain connection to query metadata
+org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:623)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:163)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:215)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:225)
+	at org.postgresql.Driver.makeConnection(Driver.java:466)
+	at org.postgresql.Driver.connect(Driver.java:265)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35)
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:178)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243)
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214)
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:175)
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1460)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1494)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.revture.project2.reimbursement.ReimbursementApplication.main(ReimbursementApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2021-12-13 13:00:51,017 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 13:00:51,702 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 13:00:52,758 ERROR com.zaxxer.hikari.pool.HikariPool [restartedMain] HikariPool-1 - Exception during pool initialization.
+org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:623)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:163)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:215)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:225)
+	at org.postgresql.Driver.makeConnection(Driver.java:466)
+	at org.postgresql.Driver.connect(Driver.java:265)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:44)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.spi.ExtractionContext.getQueryResults(ExtractionContext.java:41)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:39)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:64)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:58)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:183)
+	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.doValidation(AbstractSchemaValidator.java:60)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:200)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1498)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.revture.project2.reimbursement.ReimbursementApplication.main(ReimbursementApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+2021-12-13 13:00:52,762 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [restartedMain] SQL Error: 0, SQLState: 28P01
+2021-12-13 13:00:52,762 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [restartedMain] FATAL: password authentication failed for user "postgres"
+2021-12-13 13:00:52,774 ERROR org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+2021-12-13 13:00:52,774 WARN org.springframework.context.support.AbstractApplicationContext [restartedMain] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+2021-12-13 13:00:52,778 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Stopping service [Tomcat]
+2021-12-13 13:00:52,795 INFO org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener [restartedMain] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-12-13 13:00:52,832 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1804)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.revture.project2.reimbursement.ReimbursementApplication.main(ReimbursementApplication.java:11)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	... 21 common frames omitted
+Caused by: org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:42)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113)
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:71)
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60)
+	at org.hibernate.tool.schema.extract.spi.ExtractionContext.getQueryResults(ExtractionContext.java:41)
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:39)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:64)
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:58)
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:183)
+	at org.hibernate.tool.schema.internal.AbstractSchemaValidator.doValidation(AbstractSchemaValidator.java:60)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:200)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1498)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	... 25 common frames omitted
+Caused by: org.postgresql.util.PSQLException: FATAL: password authentication failed for user "postgres"
+	at org.postgresql.core.v3.ConnectionFactoryImpl.doAuthentication(ConnectionFactoryImpl.java:623)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.tryConnect(ConnectionFactoryImpl.java:163)
+	at org.postgresql.core.v3.ConnectionFactoryImpl.openConnectionImpl(ConnectionFactoryImpl.java:215)
+	at org.postgresql.core.ConnectionFactory.openConnection(ConnectionFactory.java:51)
+	at org.postgresql.jdbc.PgConnection.<init>(PgConnection.java:225)
+	at org.postgresql.Driver.makeConnection(Driver.java:466)
+	at org.postgresql.Driver.connect(Driver.java:265)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:181)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:44)
+	... 40 common frames omitted
+2021-12-13 13:04:48,038 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ReimbursementApplication using Java 16.0.2 on LAPTOP-416D82O1 with PID 2260 (C:\Users\Carlos Leon\java-project-two-master\target\classes started by Carlos Leon in C:\Users\Carlos Leon\java-project-two-master)
+2021-12-13 13:04:48,035 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 13:04:48,042 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 13:04:48,104 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 13:04:48,105 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 13:04:49,155 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 13:04:49,234 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 68 ms. Found 2 JPA repository interfaces.
+2021-12-13 13:04:50,199 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 13:04:50,214 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:04:50,215 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 13:04:50,216 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 13:04:50,333 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 13:04:50,333 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2228 ms
+2021-12-13 13:04:50,751 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 13:04:50,801 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 13:04:51,004 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 13:04:51,124 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 13:04:51,396 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-13 13:04:51,413 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 13:04:52,125 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-13 13:04:52,135 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 13:04:52,908 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-13 13:04:53,580 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-13 13:04:53,587 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-13 13:04:53,620 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:04:53,666 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 13:04:53,685 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ReimbursementApplication in 6.032 seconds (JVM running for 6.813)
+2021-12-13 13:25:56,627 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ReimbursementApplication using Java 16.0.2 on LAPTOP-416D82O1 with PID 1924 (C:\Users\Carlos Leon\java-project-two-master\target\classes started by Carlos Leon in C:\Users\Carlos Leon\java-project-two-master)
+2021-12-13 13:25:56,627 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 13:25:56,631 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 13:25:56,688 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 13:25:56,688 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 13:25:57,726 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 13:25:57,797 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 60 ms. Found 2 JPA repository interfaces.
+2021-12-13 13:25:58,751 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 13:25:58,765 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:25:58,766 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 13:25:58,766 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 13:25:58,872 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 13:25:58,873 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2184 ms
+2021-12-13 13:25:59,217 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 13:25:59,282 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 13:25:59,479 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 13:25:59,606 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 13:25:59,820 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-13 13:25:59,844 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 13:26:00,598 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-13 13:26:00,610 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 13:26:01,247 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-13 13:26:01,776 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-13 13:26:01,783 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-13 13:26:01,804 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:26:01,850 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 13:26:01,864 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ReimbursementApplication in 5.64 seconds (JVM running for 6.332)
+2021-12-13 13:58:09,051 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2021-12-13 13:58:09,052 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ReimbursementApplication using Java 16.0.2 on LAPTOP-416D82O1 with PID 5068 (C:\Users\Carlos Leon\java-project-two-master\target\classes started by Carlos Leon in C:\Users\Carlos Leon\java-project-two-master)
+2021-12-13 13:58:09,056 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-12-13 13:58:09,121 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-12-13 13:58:09,122 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-12-13 13:58:10,313 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-12-13 13:58:10,386 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 59 ms. Found 2 JPA repository interfaces.
+2021-12-13 13:58:11,497 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2021-12-13 13:58:11,515 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:58:11,515 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2021-12-13 13:58:11,516 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2021-12-13 13:58:11,613 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-12-13 13:58:11,614 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 2491 ms
+2021-12-13 13:58:11,999 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-13 13:58:12,075 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.6.1.Final
+2021-12-13 13:58:12,299 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-12-13 13:58:12,437 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2021-12-13 13:58:12,834 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2021-12-13 13:58:12,856 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL9Dialect
+2021-12-13 13:58:13,619 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-13 13:58:13,628 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-13 13:58:14,386 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-13 13:58:14,961 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2021-12-13 13:58:14,968 INFO org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver [restartedMain] Exposing 1 endpoint(s) beneath base path '/actuator'
+2021-12-13 13:58:14,994 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting ProtocolHandler ["http-nio-8080"]
+2021-12-13 13:58:15,036 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2021-12-13 13:58:15,049 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ReimbursementApplication in 6.359 seconds (JVM running for 7.123)
+2021-12-13 18:15:42,311 WARN com.zaxxer.hikari.pool.HikariPool$HouseKeeper [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h53m27s970ms421µs500ns).
